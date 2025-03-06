@@ -102,7 +102,3 @@ The application provides real-time preview, multiple save options, and an intuit
 ## 🤝 Contributing
 
 Feel free to fork, improve, and create pull requests. For major changes, please open an issue first.
-
-## 📜 License
-
-[Add your license information here] # ASCII-Art-Generator
